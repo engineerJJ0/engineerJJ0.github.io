@@ -34,7 +34,7 @@
 
 - 이미지  
   <img src="./img/관련이미지1.jpg">
-  <img src="./img/관련이미지2.jpg">
+  <img src="./img/관련이미지2.png">
 - 동영상
   [![](./img/관련이미지1.jpg)](https://www.youtube.com/watch?app=desktop&v=1MsHaxh5LxE)
 
@@ -42,8 +42,9 @@
 
 # [대표 이미지]
 
-![그림](./img/대표이미지1.png)
-![그림](./img/대표이미지2.png)
+![그림](./img/대표이미지1.PNG)
+![그림](./img/대표이미지2.PNG)
+![그림](./img/대표이미지3.PNG)
 
 <br><br>
 
