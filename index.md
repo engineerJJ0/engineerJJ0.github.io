@@ -254,7 +254,7 @@ Unity 3D로 개발할 예정이며, 개발이 완료된 이후에는 웹 빌드�
 
 |**행동**|**영문명칭**|**설명**|
 | - | - | - |
-|포탈  이동|OnCollisionEnter|<p>collision이  플레이어면,</p><p>exit의  position으로  이동시킨다.</p>|
+|포탈  이동|OnCollisionEnter|collision이  플레이어면,exit의  position으로  이동시킨다.|
 
 4) 오브젝트  이름  :  potion
 
